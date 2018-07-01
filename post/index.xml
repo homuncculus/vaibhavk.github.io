@@ -7,18 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>vaibhavkaushik@disroot.org (Vaibhav Kaushik)</managingEditor>
     <webMaster>vaibhavkaushik@disroot.org (Vaibhav Kaushik)</webMaster>
-    <lastBuildDate>Sun, 01 Jul 2018 17:03:28 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jul 2018 00:28:43 +0530</lastBuildDate>
     
 	<atom:link href="https://vaibhavk.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>First Blog</title>
-      <link>https://vaibhavk.github.io/post/first/</link>
-      <pubDate>Sun, 01 Jul 2018 17:03:28 +0530</pubDate>
+      <title>Github &#43; Hugo = Beautiful Blogs</title>
+      <link>https://vaibhavk.github.io/post/beautiful_blog/</link>
+      <pubDate>Mon, 02 Jul 2018 00:28:43 +0530</pubDate>
       <author>vaibhavkaushik@disroot.org (Vaibhav Kaushik)</author>
-      <guid>https://vaibhavk.github.io/post/first/</guid>
-      <description>Hello, this is my first blog. Hoping to write more over time</description>
+      <guid>https://vaibhavk.github.io/post/beautiful_blog/</guid>
+      <description>I built this blog using Github pages, Hugo and the beautifulhugo theme. The most amazing part is that it’s free, minimalist, uses Markdown and you can get it running in no time! Also Hugo comes with Live-Reload enabled so you can simultaniously see the changes you make in your website.
+Here’s a short tutorial on how I made this blog. Let’s get started!
+Note: If you are not interested to do the setup yourself, simply fork my repo and make the changes to include your details.</description>
     </item>
     
   </channel>
